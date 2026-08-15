@@ -6,8 +6,6 @@
 ---
 
 ## 👋 About Me
-
-
 Hello! I’m **Aditya Kumar**, a motivated B.Tech Computer Science student driven by curiosity and impact.  
 I’m focused on building expertise in:
 
