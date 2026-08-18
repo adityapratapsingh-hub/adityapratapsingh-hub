@@ -29,8 +29,7 @@ I’m focused on building expertise in:
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
+--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ffd5&center=true&vCenter=true&width=500&lines=Skills+%26+Technologies" alt="Skills Typing" />
 
