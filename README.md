@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=700&color=00ffd5&center=true&vCenter=true&width=720&lines=Hii,+I'm+Aditya+Pratap+Singh!;B.Tech+CS+Student+%7C+Aspiring+Software+Engineer;Passionate+About+DSA+%26+Open+Source" alt="Typing SVG" />
 </p>
 
-
 //Aditya
 
 
