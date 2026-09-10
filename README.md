@@ -8,7 +8,7 @@ Hello! I’m **Aditya Pratap Singh**, a motivated B.Tech Computer Science studen
 I’m focused on building expertise in:
 
 
-
+// my name is the aditya pratap singh and i am students of b.tech cse so 
 <div align="center">
 
 | 🔥 **Data Structures & Algorithms** | 🏗️ **System Design** | 🌐 **Full-stack Development** |
